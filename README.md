@@ -1,4 +1,4 @@
-# Provision a compute instance in GCP - Test
+# Provision a compute instance in GCP
 # test
 This Terraform configuration provisions a compute instance in Google Cloud Platform.
 
